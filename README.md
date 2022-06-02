@@ -1,3 +1,6 @@
+PROYECTO REALIZADO POR:
+Andre Flores
+Abraham Ayala
 # Consulta01
 
 * [Consulta] Realizar una consulta teórica y práctica sobre la implementación de clases, objetos y constructores en lenguaje de programación Python
